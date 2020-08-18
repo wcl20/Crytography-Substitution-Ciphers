@@ -9,6 +9,10 @@ These ciphers can be cracked using different analysis:
 * Kasiski analysis can determine the key length by finding repeating patterns.
 
 ## Setup
+Create a results direction
+```bash
+mkdir results
+```
 Create build directory
 ```bash
 mkdir build && cd $_
