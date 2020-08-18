@@ -27,4 +27,4 @@ Run executable
 ```
 The program reads plain text from plain.txt, then encrypts the text using different ciphers.
 
-The program then tries to decrypt the encoded message with a known key, or unknown key.
+The program then tries to decrypt the encoded message with a known key, or unknown key. The results are stored in the results folder.
